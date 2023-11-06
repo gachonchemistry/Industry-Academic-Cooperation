@@ -905,6 +905,20 @@ table.alt tbody tr td {
                display: flex;
                margin: auto;
                 }
+.content-date{
+  margin-bottom: 0px;
+  margin-top: 15px;
+  text-align: right;
+}
+
+.semina-date{
+  margin: 10px;
+}
+
+
+
+
+
 
 
 
